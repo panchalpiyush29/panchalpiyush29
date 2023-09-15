@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Piyush
 - 👀 I’m interested in automation testing
-- 🌱 I’m good with Selenium, Cucumber, Java & Testing
-- 🌱 I’m currently learning Spring Boot & Rest Assured
+- 🌱 I’m good with Playwright,Selenium, Cucumber, Java & Testing
+- 🌱 I’m currently learning Azure pipelilnes
 - 💞️ I’m looking to collaborate on anything with test automation
 - 📫 How to reach me ping me on githib @panchalpiyush29
 
